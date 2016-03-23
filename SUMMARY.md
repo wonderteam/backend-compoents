@@ -1,3 +1,3 @@
 # Table of content
 
-* [Table Search](tableSearch.md)
+* [Table Search](tableSearch/README.md)
