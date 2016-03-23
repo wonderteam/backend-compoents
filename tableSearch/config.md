@@ -65,7 +65,7 @@ __必须__。列表请求的ajax接口。请求此url时会带上页号page，�
 其中list数组，其中每一条数据对应表格的一行，page为当前页号,page_count为总页数。
 
 ### columns
-参数比较多，请查看《配置参数--columns》章节
+__必须__。参数比较多，请查看《配置参数--columns》章节
 
 #### 简写
 如果配置项只有header和dataIndex，并且它们值相同，就可以直接一个header的值就行了。比如：
